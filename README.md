@@ -42,8 +42,8 @@ ssh tocken1@domain.com
 # telnet, netcat, etc (Not encrypted!)
 telnet domain.com 22
 
-Trying 95.156.229.190...
-Connected to proxy.busindre.com.
+Trying x.x.x.x...
+Connected to domain.com.
 Escape character is '^]'.
 SSH-2.0-OpenSSH_6.6.1
 tocken1
